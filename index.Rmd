@@ -8,12 +8,13 @@ output:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
+      ratio: '16:9'
 ---
 layout: true
 
 class: middle, center, inverse
 
-
+<!-- ghp-import -n -p -r vm2021 25_Villamonte_Theater_2021 -->
 ---
 
 **Eine Parklandschaft:** Restaurant mit “Pizza-Küche”, ein Café, eine Bar.

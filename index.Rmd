@@ -130,7 +130,7 @@ Mäuse bringen eine Torte und eine Kerze und viele Geschenke und setzen sich hin
 
 *GK:* Macht einen Service, Rad- oder Ölwechsel oder sonst was, ok?
 Die weisse Maus begleitet einen Marienkäfer mit Kleeblatt auf die Bühne:
-<ul>Marienkäfer: ich bringe alles Glück der Welt zum grossen Fest!</ul>
+Marienkäfer: ich bringe alles Glück der Welt zum grossen Fest!
 Die weisse Maus geleitet den Käfer zu den Blumen. Kobolde folgen den Elfen.
 
 ---
